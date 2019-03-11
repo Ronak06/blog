@@ -1,6 +1,8 @@
 App built as part of Udemy Course: Modern React with Redux [2019 Update] By Stephen Grider
 
 # blog
+![](public/demo/blogDemo.png)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
